@@ -4,4 +4,4 @@ A __easy-to-use module__ that can help you get groups with it's methods! Althoug
 ## `Arguments & Other`
 - `SearchLoop: number`, a __for loop__ will start with a __milisecond delay__. As this argument will be the amount of searchs it will do. 
 
-- Prints out the __`Id`- `Name` and if there is an `Owner`__
+- Prints out the __`Id`- `Name` and if there is no `Owner`__
